@@ -76,28 +76,6 @@
       "views": "2.1k",
       "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
       "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg"
-    },
-    {
-      "title": "Javascript",
-      "author": "muhaimin",
-      "description": "Test Description",
-      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
-      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
-      "date": "May 10, 2022",
-      "duration": "10:12",
-      "views": "2.8k",
-      "id": 8
-    },
-    {
-      "title": "cache check",
-      "author": "muhaimin",
-      "description": "description",
-      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
-      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
-      "date": "May 10, 2022",
-      "duration": "10:12",
-      "views": "2.9k",
-      "id": 9
     }
   ]
 }
